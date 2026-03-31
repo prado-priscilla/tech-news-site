@@ -4,7 +4,7 @@ A simple website built with HTML and CSS focused on sharing news and trends abou
 
 # Live Demo
 
-🔗 https://prado-priscilla.github.io/tech-news-site/
+🔗 [https://prado-priscilla.github.io/tech-news-site/](https://prado-priscilla.github.io/tech-news-site/)
 
 # Features
 
